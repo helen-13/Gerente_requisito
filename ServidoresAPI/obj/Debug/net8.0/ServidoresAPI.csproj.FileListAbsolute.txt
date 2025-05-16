@@ -1,0 +1,8 @@
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.csproj.AssemblyReference.cache
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.AssemblyInfoInputs.cache
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.AssemblyInfo.cs
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.csproj.CoreCompileInputs.cache
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hgfre\ServidoresAPI\obj\Debug\net8.0\ServidoresAPI.sourcelink.json
